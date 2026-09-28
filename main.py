@@ -45,7 +45,7 @@ def get_html(url):
         pass
     return None
 
-print("Запуск скрапінгу")
+print("Запуск скрапінгу...")
 soup_inst = get_html(INSTITUTES_URL)
 institutes = []
 
