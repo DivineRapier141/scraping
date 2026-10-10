@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<institutes>
+  <institute>
+    <name>Архітектури та дизайну інститут</name>
+    <url>https://lpnu.ua/iard</url>
+  </institute>
+  <institute>
+    <name>Будівництва, інфраструктури та безпеки життєдіяльності</name>
+    <url>https://lpnu.ua/ibib</url>
+  </institute>
+  <institute>
+    <name>Врядування та бізнесу інститут</name>
+    <url>https://lpnu.ua/ivbi</url>
+  </institute>
+  <institute>
+    <name>Геодезії інститут</name>
+    <url>https://lpnu.ua/igdg</url>
+  </institute>
+  <institute>
+    <name>Гуманітарних та соціальних наук інститут</name>
+    <url>https://lpnu.ua/ihsn</url>
+  </institute>
+  <institute>
+    <name>Економіки і менеджменту інститут</name>
+    <url>https://lpnu.ua/inem</url>
+  </institute>
+  <institute>
+    <name>Енергетики та систем керування інститут</name>
+    <url>https://lpnu.ua/iesk</url>
+  </institute>
+  <institute>
+    <name>Інформаційно-комунікаційних технологій та електронної інженерії інститут</name>
+    <url>https://lpnu.ua/ikte</url>
+  </institute>
+  <institute>
+    <name>Комп'ютерних наук та інформаційних технологій інститут</name>
+    <url>https://lpnu.ua/ikni</url>
+  </institute>
+  <institute>
+    <name>Комп'ютерних технологій, автоматики та метрології інститут</name>
+    <url>https://lpnu.ua/ikta</url>
+  </institute>
+  <institute>
+    <name>Механічної інженерії та транспорту інститут</name>
+    <url>https://lpnu.ua/imit</url>
+  </institute>
+  <institute>
+    <name>Поліграфії та медійних технологій інститут</name>
+    <url>https://lpnu.ua/ipmt</url>
+  </institute>
+  <institute>
+    <name>Права, психології та інноваційної освіти інститут</name>
+    <url>https://lpnu.ua/ippo</url>
+  </institute>
+  <institute>
+    <name>Прикладної математики та фундаментальних наук інститут</name>
+    <url>https://lpnu.ua/imfn</url>
+  </institute>
+  <institute>
+    <name>Просторового планування та перспективних технологій інститут</name>
+    <url>https://lpnu.ua/ippt</url>
+  </institute>
+  <institute>
+    <name>Хімії та хімічних технологій інститут</name>
+    <url>https://lpnu.ua/ikhkht</url>
+  </institute>
+</institutes>
